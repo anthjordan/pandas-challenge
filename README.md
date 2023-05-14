@@ -1,2 +1,5 @@
 # pandas-challenge
 module 4
+The data presented for the schools, comparing charter schools to district schools, gave some insight  that is optimistic for how we can improve pass rate  for students. Looking at how much funding is used per student and size of the schools we can compare this to the passing rate for reading and math.  Comparing at a micro and macro level. 
+
+There are several take aways from the research. The schools in the 90 percent or higher were charter schools. looking t the budget per student over all it was to close to look at this as a factor. This is good to see as this can mean what can be learned from charter schools in their process can be implemented in less fortunate schools. There is another pattern that showed up with the charter schools and that was size. For the most part they were medium size schools with one that was small. This can be a factor but would consider doing more research into what Wilson High school is doing as they are a large school with overall pas rate in the 90 percent. 
